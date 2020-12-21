@@ -23,3 +23,9 @@ Play with a friend and get competitive! Once you answer a question, place an X o
 ## Connect 4
 
 Play by yourself or with a friend. Answer a question before you are able to play, and try to connect 4 pieces in a row. Make sure to watch out for your opponent's connections!
+
+<br>
+
+## Additional Links
+* [GitHub Repo](https://github.com/nathanlm511/QuizletGames)
+* [Project Demo](https://youtu.be/51N9_eLfz0A)
