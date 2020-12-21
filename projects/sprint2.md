@@ -6,7 +6,7 @@ layout: page
 <h1 align="center">Pirate.io</h1>
 
 <p align="center">
-  <img src="Sprint2.PNG" width="650" height="300"/>
+  <img src="Sprint2.PNG" width="750" height="350"/>
 </p>
 
 ## Inspiration
