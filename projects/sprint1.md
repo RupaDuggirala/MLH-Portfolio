@@ -2,7 +2,7 @@
 title: Sprint 1 Project
 layout: page
 ---
-
+<br>
 <h1 align="center">Quizlet Games</h1>
 
 <p align="center">
