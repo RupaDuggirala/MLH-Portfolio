@@ -1,7 +1,7 @@
 <h1 align="center">Rupa's MLH Portfolio</h1>
 
-In Fall 2020, I was a Technical Program Management Intern at MLH! Here's some information about my experiences in the Explorer Fellowship program:
-* I was selected from over 10,000 applicants to be part of the inaugural class of 70 Explorer MLH Fellows; the program is powered by GitHub + Facebook.
+In Fall 2020, I was a Technical Program Management Intern at MLH! Here's some info about my experiences in the Explorer Fellowship:
+* I was selected from over 10,000 applicants to be a part of the inaugural class of 70 Explorer MLH Fellows; the program was powered by GitHub + Facebook.
 * I worked collaboratively with a diverse team of student developers to craft technical solutions to real-world problems through a series of hacking sprints.
 
 ## Portfolio
